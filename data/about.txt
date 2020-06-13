@@ -1,4 +1,11 @@
-This folder contains Data. 
+This folder was supposed to contain Data. However due to the large size, it is advised that the dataset be downloaded yourself. 
+A link to the dataset is provided. 
+
+REQUIREMENTS:
+Save the dataset as .m workspace with all elements as double into this folder. 
+
+LINK: 
+https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ABOUT: 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders.
